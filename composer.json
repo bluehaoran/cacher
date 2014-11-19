@@ -1,0 +1,19 @@
+{
+    "name": "untoyou/cacher",
+    "description": "A quick and simple cache that stores and retrieves things from/to a flat file cache system.",
+    "type": "library",
+    "keywords": ["cache", "flat file"],
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Haoran Un",
+            "email": "haoran@untoyou.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Untoyoun\\": "src/"
+        }
+    }
+}
